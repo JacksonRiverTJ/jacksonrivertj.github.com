@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Name is TJ!
-tagline: Supporting tagline
+title: TJ Griffin
+tagline: Procrastinating Since 1970
 ---
 {% include JB/setup %}
 
